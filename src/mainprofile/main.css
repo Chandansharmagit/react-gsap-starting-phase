@@ -1,0 +1,28 @@
+.deteiling {
+    margin-top: 12rem;
+    margin-left: -16em;
+}
+
+.main {
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    opacity: 2;
+}
+
+.mains {
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 3rem;
+    opacity: 10;
+}
+.img{
+    width:50vw;
+    height: auto;
+    border-radius: 12px;
+    margin-left: -20rem;
+    margin-top: 4rem;
+}
